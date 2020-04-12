@@ -8,4 +8,7 @@
   <ItemGroup>
     <Folder Include="model\" />
   </ItemGroup>
+  <ItemGroup>
+    <Compile Remove="model\MsgSystem.cs" />
+  </ItemGroup>
 </Project>
